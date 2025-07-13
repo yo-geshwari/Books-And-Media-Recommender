@@ -1,12 +1,49 @@
-# React + Vite
+# 📚 Book & Media Recommender
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-fledged **Book & Media Recommender Website** built using **React.js** and **Tailwind CSS**. This platform lets users explore, review, and recommend books and media — with a seamless and modern UI.
 
-Currently, two official plugins are available:
+🚀 Built to learn and apply full-stack web development using:
+- **Firebase** (Authentication, Firestore DB, Hosting)
+- **Cloudinary** (for secure image uploads & optimization)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React.js, Tailwind CSS
+- **Backend/BAAS**: Firebase (Auth, Firestore, Hosting)
+- **Media Management**: Cloudinary
+- **Other Tools**: React Router
+- **Hosting**: Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+
+- 🔐 User Sign-up/Login using Firebase Auth
+- 📚 Post book/media recommendations
+- 💬 Add and read reviews
+- 📤 Upload cover images via Cloudinary
+- 🔎 Search and filter content
+- 🎨 Clean, responsive UI with Tailwind CSS
+
+## 📚 What I Learned
+
+- React project structure and component-based development
+- Firebase Authentication & Firestore integration
+- Image upload flow with Cloudinary
+- Hosting and CI/CD setup with Vercel
+- Tailwind utility-first design workflow
+
+## 🚀 How to Run
+
+👉 [click here!](https://books-and-media-recommender.vercel.app/)
+
+---
+
+## 🙌 Final Notes
+
+This project started as a learning experiment and turned into a full-stack exploration of user authentication, real-time databases, image handling, and clean UI design.  
+Whether you're a fellow dev, a book lover, or just curious — I hope you enjoy using (or building upon) it!
+
+If you have suggestions, feedback, or want to collaborate — feel free to connect!
+
+**Made with 💻, ☕, and lots of love for books.**
+
+---
